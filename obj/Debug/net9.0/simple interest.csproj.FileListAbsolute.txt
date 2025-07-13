@@ -1,0 +1,14 @@
+F:\Practice\simple interest\obj\Debug\net9.0\simple interest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\simple interest\obj\Debug\net9.0\simple interest.AssemblyInfoInputs.cache
+F:\Practice\simple interest\obj\Debug\net9.0\simple interest.AssemblyInfo.cs
+F:\Practice\simple interest\obj\Debug\net9.0\simple interest.csproj.CoreCompileInputs.cache
+F:\Practice\simple interest\bin\Debug\net9.0\simple interest.exe
+F:\Practice\simple interest\bin\Debug\net9.0\simple interest.deps.json
+F:\Practice\simple interest\bin\Debug\net9.0\simple interest.runtimeconfig.json
+F:\Practice\simple interest\bin\Debug\net9.0\simple interest.dll
+F:\Practice\simple interest\bin\Debug\net9.0\simple interest.pdb
+F:\Practice\simple interest\obj\Debug\net9.0\simple interest.dll
+F:\Practice\simple interest\obj\Debug\net9.0\refint\simple interest.dll
+F:\Practice\simple interest\obj\Debug\net9.0\simple interest.pdb
+F:\Practice\simple interest\obj\Debug\net9.0\simple interest.genruntimeconfig.cache
+F:\Practice\simple interest\obj\Debug\net9.0\ref\simple interest.dll
